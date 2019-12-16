@@ -1,4 +1,4 @@
-package com.enom2g.springwebservice;
+package com.enom2g.webservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
